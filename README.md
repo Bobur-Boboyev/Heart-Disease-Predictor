@@ -14,7 +14,7 @@ The application trains and compares three different ML models:
 
 Each model is trained on a preprocessed version of the heart disease dataset and evaluated using accuracy.
 
-## 📚 Dataset
+## Dataset
 
 * UCI Heart Disease Dataset  
 * [https://archive.ics.uci.edu/ml/datasets/heart+disease](https://archive.ics.uci.edu/ml/datasets/heart+disease)
