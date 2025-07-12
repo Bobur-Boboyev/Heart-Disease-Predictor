@@ -1,6 +1,6 @@
 # Heart Disease Predictor
 
-![Accuracy of Models](visualization/accuracy_models.png)
+![Accuracy of Models](visualization/accuracy.png)
 
 This project uses machine learning models to predict the presence of heart disease based on a dataset of medical features.
 
